@@ -1,0 +1,1348 @@
+[
+    {
+        "id": 0,
+        "name": "The Midnight Cipher",
+        "director": "Elena Vance",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "year": 2024,
+        "rating": "PG-13",
+        "review_stars": 4.5,
+        "short_plot_summary": "A brilliant linguist discovers an ancient code hidden within radio waves from a dying star, leading to a race against a shadow organization."
+    },
+    {
+        "id": 1,
+        "name": "Monsoon Lanterns",
+        "director": "Arjun Mehra",
+        "genre": [
+            "Bollywood",
+            "Drama",
+            "Romance"
+        ],
+        "year": 2021,
+        "rating": "UA",
+        "review_stars": 4.2,
+        "short_plot_summary": "Two childhood friends reunite in Mumbai during the monsoon and confront family secrets that will change their lives."
+    },
+    {
+        "id": 2,
+        "name": "Steel Horizon",
+        "director": "Noah Cortez",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "year": 2019,
+        "rating": "R",
+        "review_stars": 3.9,
+        "short_plot_summary": "In a near-future megacity, an ex-cop and an outlaw pilot team up to stop a corporate weaponized AI."
+    },
+    {
+        "id": 3,
+        "name": "Paper Tigers",
+        "director": "Rhea Kapoor",
+        "genre": [
+            "Bollywood",
+            "Comedy",
+            "Family"
+        ],
+        "year": 2017,
+        "rating": "U",
+        "review_stars": 3.7,
+        "short_plot_summary": "A struggling theatre troupe stages an ambitious musical to save their legacy and discovers unexpected talent."
+    },
+    {
+        "id": 4,
+        "name": "Bluefin Run",
+        "director": "Marcus Yeo",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "year": 2015,
+        "rating": "PG-13",
+        "review_stars": 4.0,
+        "short_plot_summary": "An aging sailor and a young marine biologist chase a legend of a rare bluefin through stormy seas."
+    },
+    {
+        "id": 5,
+        "name": "Pixel Pilgrims",
+        "director": "Lina Kovács",
+        "genre": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "year": 2020,
+        "rating": "U",
+        "review_stars": 4.6,
+        "short_plot_summary": "Two digital sprites leave their arcade to rescue a lost player's memory across retro game worlds."
+    },
+    {
+        "id": 6,
+        "name": "Echoes of the Bazaar",
+        "director": "Meera Joshi",
+        "genre": [
+            "Bollywood",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": 2022,
+        "rating": "UA",
+        "review_stars": 4.1,
+        "short_plot_summary": "A jewellery designer deciphers coded messages hidden in antique fabrics while evading a criminal syndicate."
+    },
+    {
+        "id": 7,
+        "name": "Neon Pilgrim",
+        "director": "Dante Moreno",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "year": 2023,
+        "rating": "PG-13",
+        "review_stars": 3.8,
+        "short_plot_summary": "A courier with a haunted past delivers memories across a neon-soaked metropolis and must choose which to keep."
+    },
+    {
+        "id": 8,
+        "name": "The Last Carousel",
+        "director": "Sofia Petrov",
+        "genre": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "year": 2016,
+        "rating": "U",
+        "review_stars": 4.3,
+        "short_plot_summary": "An old fairground's wooden animals come to life one final night to teach a lonely child about courage."
+    },
+    {
+        "id": 9,
+        "name": "Crimson Ledger",
+        "director": "Damian Holt",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "year": 2018,
+        "rating": "R",
+        "review_stars": 4.0,
+        "short_plot_summary": "A forensic accountant uncovers a money trail that ties a beloved philanthropist to organized crime."
+    },
+    {
+        "id": 10,
+        "name": "Ganges of Gold",
+        "director": "Anita Sharma",
+        "genre": [
+            "Bollywood",
+            "Historical",
+            "Drama"
+        ],
+        "year": 2014,
+        "rating": "UA",
+        "review_stars": 4.4,
+        "short_plot_summary": "During the late 1800s, a fisherman's family is pulled into a freedom movement and a costly trade dispute."
+    },
+    {
+        "id": 11,
+        "name": "Orbit Motel",
+        "director": "Haley Quinn",
+        "genre": [
+            "Indie",
+            "Comedy",
+            "Romance"
+        ],
+        "year": 2020,
+        "rating": "PG-13",
+        "review_stars": 3.6,
+        "short_plot_summary": "Strangers stuck overnight at a remote roadside motel discover their lives are oddly connected."
+    },
+    {
+        "id": 12,
+        "name": "Shadow Cartographer",
+        "director": "Ibrahim Saeed",
+        "genre": [
+            "Thriller",
+            "Mystery"
+        ],
+        "year": 2021,
+        "rating": "PG-13",
+        "review_stars": 4.2,
+        "short_plot_summary": "A mapmaker finds a map that changes each night and leads to a vanished town's dark history."
+    },
+    {
+        "id": 13,
+        "name": "Saffron Sunrise",
+        "director": "Vikram Desai",
+        "genre": [
+            "Bollywood",
+            "Romance",
+            "Drama"
+        ],
+        "year": 2025,
+        "rating": "UA",
+        "review_stars": 4.0,
+        "short_plot_summary": "Two rival chefs in Delhi fall in love while competing in a national culinary contest."
+    },
+    {
+        "id": 14,
+        "name": "Glass Canyon",
+        "director": "Owen Blake",
+        "genre": [
+            "Western",
+            "Drama"
+        ],
+        "year": 2012,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A retired bounty hunter must return to the canyon to protect a town from a violent gang."
+    },
+    {
+        "id": 15,
+        "name": "Marigold Mechanics",
+        "director": "Priya Nair",
+        "genre": [
+            "Bollywood",
+            "Comedy",
+            "Drama"
+        ],
+        "year": 2019,
+        "rating": "UA",
+        "review_stars": 3.8,
+        "short_plot_summary": "A group of female mechanics start a mobile repair shop that transforms attitudes in a small town."
+    },
+    {
+        "id": 16,
+        "name": "Ink & Ember",
+        "director": "Lucien Marchand",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "year": 2013,
+        "rating": "PG",
+        "review_stars": 4.1,
+        "short_plot_summary": "A runaway apprentice binds a living storybook to fight an encroaching grayness stealing color from the world."
+    },
+    {
+        "id": 17,
+        "name": "Quantum Cats",
+        "director": "Hana Sato",
+        "genre": [
+            "Animation",
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "year": 2022,
+        "rating": "U",
+        "review_stars": 4.7,
+        "short_plot_summary": "A team of curious kittens accidentally split time and must herd fractured realities back together."
+    },
+    {
+        "id": 18,
+        "name": "Midnight Masala",
+        "director": "Kabir Malhotra",
+        "genre": [
+            "Bollywood",
+            "Musical",
+            "Comedy"
+        ],
+        "year": 2018,
+        "rating": "UA",
+        "review_stars": 3.9,
+        "short_plot_summary": "A late-night radio host and a struggling singer create an underground musical movement across Mumbai."
+    },
+    {
+        "id": 19,
+        "name": "Silent Alloy",
+        "director": "Greta Roh",
+        "genre": [
+            "Sci-Fi",
+            "Mystery"
+        ],
+        "year": 2025,
+        "rating": "PG-13",
+        "review_stars": 4.0,
+        "short_plot_summary": "When robotic statues begin whispering, a linguist and a sculptor decode messages from a lost civilization."
+    },
+    {
+        "id": 20,
+        "name": "Paper Planes Over Karachi",
+        "director": "Zara Khan",
+        "genre": [
+            "Drama",
+            "Bollywood"
+        ],
+        "year": 2011,
+        "rating": "UA",
+        "review_stars": 3.5,
+        "short_plot_summary": "Two siblings strive to keep their neighborhood library open despite political pressure and dwindling funds."
+    },
+    {
+        "id": 21,
+        "name": "River of Echoes",
+        "director": "Thomas Reynolds",
+        "genre": [
+            "Documentary",
+            "Nature"
+        ],
+        "year": 2017,
+        "rating": "U",
+        "review_stars": 4.6,
+        "short_plot_summary": "A lyrical portrait of river ecosystems and the communities whose lives are woven with the water."
+    },
+    {
+        "id": 22,
+        "name": "Clockwork Dervish",
+        "director": "Farah Iqbal",
+        "genre": [
+            "Bollywood",
+            "Fantasy",
+            "Drama"
+        ],
+        "year": 2020,
+        "rating": "UA",
+        "review_stars": 4.1,
+        "short_plot_summary": "An inventor and a dancer unlock a hidden city within a clocktower and confront a forgotten dynasty."
+    },
+    {
+        "id": 23,
+        "name": "Neptune's Choir",
+        "director": "Wyatt Grimaldi",
+        "genre": [
+            "Adventure",
+            "Family"
+        ],
+        "year": 2016,
+        "rating": "PG",
+        "review_stars": 4.0,
+        "short_plot_summary": "A young marine discovers singing whales that guide lost sailors and uncover a centuries-old pact."
+    },
+    {
+        "id": 24,
+        "name": "Velvet Revolver",
+        "director": "Estelle Laurent",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": 2010,
+        "rating": "R",
+        "review_stars": 3.8,
+        "short_plot_summary": "A retired thief is pulled back into one last heist that tests loyalties and old alliances."
+    },
+    {
+        "id": 25,
+        "name": "Kite Strings",
+        "director": "Rajan Patil",
+        "genre": [
+            "Bollywood",
+            "Family",
+            "Drama"
+        ],
+        "year": 2013,
+        "rating": "U",
+        "review_stars": 4.2,
+        "short_plot_summary": "A child seeks to reunite his divorced parents by entering a traditional kite festival."
+    },
+    {
+        "id": 26,
+        "name": "Hologram Heart",
+        "director": "Maya Lin",
+        "genre": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "year": 2024,
+        "rating": "PG-13",
+        "review_stars": 4.0,
+        "short_plot_summary": "A holographic companion and her creator fall into a forbidden connection that questions what it means to love."
+    },
+    {
+        "id": 27,
+        "name": "The Last Papier",
+        "director": "Jonah Keene",
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "year": 2018,
+        "rating": "U",
+        "review_stars": 4.4,
+        "short_plot_summary": "Paper figures in a stationery shop band together to save their maker from closing the store."
+    },
+    {
+        "id": 28,
+        "name": "Bombay Bullet",
+        "director": "Deepak Rao",
+        "genre": [
+            "Bollywood",
+            "Action",
+            "Thriller"
+        ],
+        "year": 2022,
+        "rating": "UA",
+        "review_stars": 3.7,
+        "short_plot_summary": "An honest traffic cop uncovers a smuggling ring that uses the city's busy streets to hide their tracks."
+    },
+    {
+        "id": 29,
+        "name": "Solar Bloom",
+        "director": "Iris Delgado",
+        "genre": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "year": 2021,
+        "rating": "PG-13",
+        "review_stars": 4.1,
+        "short_plot_summary": "On a space farm orbiting a dim star, a botanist engineers a plant that could restore light to dying worlds."
+    },
+    {
+        "id": 30,
+        "name": "Tamasha Tides",
+        "director": "Nikhil Rao",
+        "genre": [
+            "Bollywood",
+            "Romance",
+            "Musical"
+        ],
+        "year": 2010,
+        "rating": "UA",
+        "review_stars": 3.6,
+        "short_plot_summary": "A seaside theatre troupe stages a bold play that mirrors the real romantic choices facing its actors."
+    },
+    {
+        "id": 31,
+        "name": "Broken Lighthouse",
+        "director": "Evelyn Cho",
+        "genre": [
+            "Psychological",
+            "Thriller"
+        ],
+        "year": 2015,
+        "rating": "R",
+        "review_stars": 3.9,
+        "short_plot_summary": "A lighthouse keeper's memories fracture as an investigation into a missing boat reveals deeper truths."
+    },
+    {
+        "id": 32,
+        "name": "Lantern Road",
+        "director": "Suman Reddy",
+        "genre": [
+            "Bollywood",
+            "Drama"
+        ],
+        "year": 2016,
+        "rating": "UA",
+        "review_stars": 4.0,
+        "short_plot_summary": "An aging bus conductor and a young volunteer challenge societal expectations on a soul-searching pilgrimage."
+    },
+    {
+        "id": 33,
+        "name": "Golem Arcade",
+        "director": "Felix Morgen",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "year": 2023,
+        "rating": "U",
+        "review_stars": 4.5,
+        "short_plot_summary": "Kids assemble broken arcade cabinets and awaken a friendly golem that helps them save their neighborhood."
+    },
+    {
+        "id": 34,
+        "name": "Opal Network",
+        "director": "Nora Albright",
+        "genre": [
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "year": 2019,
+        "rating": "PG-13",
+        "review_stars": 3.8,
+        "short_plot_summary": "A journalist traces a whisper network of hacked memories that reveals a political cover-up."
+    },
+    {
+        "id": 35,
+        "name": "Paan & Roses",
+        "director": "Kavita Bhatia",
+        "genre": [
+            "Bollywood",
+            "Romance",
+            "Comedy"
+        ],
+        "year": 2012,
+        "rating": "U",
+        "review_stars": 3.7,
+        "short_plot_summary": "An arranged marriage turns into a playful battle of wits when the couple open a café together."
+    },
+    {
+        "id": 36,
+        "name": "Atlas of Small Things",
+        "director": "Ethan Vale",
+        "genre": [
+            "Indie",
+            "Drama"
+        ],
+        "year": 2014,
+        "rating": "PG-13",
+        "review_stars": 4.0,
+        "short_plot_summary": "A curator assembles a museum exhibit of everyday objects that reveals hidden lives of ordinary people."
+    },
+    {
+        "id": 37,
+        "name": "Cradle of Rockets",
+        "director": "Rina Basu",
+        "genre": [
+            "Bollywood",
+            "Sci-Fi",
+            "Action"
+        ],
+        "year": 2025,
+        "rating": "UA",
+        "review_stars": 4.1,
+        "short_plot_summary": "A young engineer in Pune builds model rockets that attract the attention of a space start-up with secrets."
+    },
+    {
+        "id": 38,
+        "name": "Wander & Stitch",
+        "director": "Gavin Brooks",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "year": 2011,
+        "rating": "U",
+        "review_stars": 4.3,
+        "short_plot_summary": "A traveling tailor and a stray dog mend more than clothes as they help townspeople reconnect."
+    },
+    {
+        "id": 39,
+        "name": "Mercury Casino",
+        "director": "Alessio Romano",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "year": 2020,
+        "rating": "R",
+        "review_stars": 3.6,
+        "short_plot_summary": "A washed-up gambler plots to take down the casino syndicate that controls his city."
+    },
+    {
+        "id": 40,
+        "name": "Lotus & Lead",
+        "director": "Ananya Verma",
+        "genre": [
+            "Bollywood",
+            "Drama",
+            "Historical"
+        ],
+        "year": 2009,
+        "rating": "U",
+        "review_stars": 4.2,
+        "short_plot_summary": "During a period of political unrest, a female journalist risks everything to report the truth."
+    },
+    {
+        "id": 41,
+        "name": "Neon Origami",
+        "director": "Sora Watanabe",
+        "genre": [
+            "Animation",
+            "Sci-Fi"
+        ],
+        "year": 2017,
+        "rating": "U",
+        "review_stars": 4.6,
+        "short_plot_summary": "Paper creatures in a neon city learn to fold their way through memories and become guardians of forgotten joys."
+    },
+    {
+        "id": 42,
+        "name": "Sidecar Serenade",
+        "director": "Rafael Torres",
+        "genre": [
+            "Comedy",
+            "Road Movie"
+        ],
+        "year": 2013,
+        "rating": "PG-13",
+        "review_stars": 3.5,
+        "short_plot_summary": "An unlikely duo ride across Latin America on a vintage scooter to deliver a long-lost mixtape."
+    },
+    {
+        "id": 43,
+        "name": "The Ashoka Cipher",
+        "director": "Devika Rao",
+        "genre": [
+            "Bollywood",
+            "Mystery",
+            "Adventure"
+        ],
+        "year": 2024,
+        "rating": "UA",
+        "review_stars": 4.3,
+        "short_plot_summary": "An archaeologist decodes an inscription that points to a hidden chamber and ancient political intrigue."
+    },
+    {
+        "id": 44,
+        "name": "Shadow Puppets",
+        "director": "Milan Petrovic",
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "year": 2018,
+        "rating": "PG",
+        "review_stars": 4.0,
+        "short_plot_summary": "Traditional puppets teach a skeptical child about ancestry when their village faces erasure by developers."
+    },
+    {
+        "id": 45,
+        "name": "Glass & Grease",
+        "director": "Noelle Finch",
+        "genre": [
+            "Documentary",
+            "Arts"
+        ],
+        "year": 2019,
+        "rating": "U",
+        "review_stars": 4.4,
+        "short_plot_summary": "Portraits of artisans who keep dying crafts alive in the face of mass production."
+    },
+    {
+        "id": 46,
+        "name": "Rogue Basilica",
+        "director": "Mateo Cruz",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "year": 2011,
+        "rating": "R",
+        "review_stars": 3.7,
+        "short_plot_summary": "A priest and an architect unearth a hidden crypt whose presence awakens the building's violent past."
+    },
+    {
+        "id": 47,
+        "name": "Rice & Revolutions",
+        "director": "Saira Qureshi",
+        "genre": [
+            "Bollywood",
+            "Political",
+            "Drama"
+        ],
+        "year": 2015,
+        "rating": "UA",
+        "review_stars": 4.1,
+        "short_plot_summary": "Farmers unite against corporate policies in a rural district, sparking a movement that reaches the capital."
+    },
+    {
+        "id": 48,
+        "name": "Aurora Freight",
+        "director": "Declan Price",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "year": 2022,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A freighter captain takes a dangerous route through cosmic storms to deliver lifesaving cargo to a colony."
+    },
+    {
+        "id": 49,
+        "name": "Paper Moon Puppetry",
+        "director": "Lata Iyer",
+        "genre": [
+            "Bollywood",
+            "Family",
+            "Animation"
+        ],
+        "year": 2020,
+        "rating": "U",
+        "review_stars": 4.5,
+        "short_plot_summary": "Children craft paper moons to cheer a grieving town and inadvertently bring the sky a little closer."
+    },
+    {
+        "id": 50,
+        "name": "Silent Ledger",
+        "director": "Conor Hale",
+        "genre": [
+            "Thriller",
+            "Crime"
+        ],
+        "year": 2016,
+        "rating": "R",
+        "review_stars": 3.8,
+        "short_plot_summary": "An investigator follows a dead accountant's ledger into a maze of offshore shells and deadly cover-ups."
+    },
+    {
+        "id": 51,
+        "name": "Kites of Kandahar",
+        "director": "Ayesha Mir",
+        "genre": [
+            "Bollywood",
+            "War",
+            "Drama"
+        ],
+        "year": 2013,
+        "rating": "UA",
+        "review_stars": 4.0,
+        "short_plot_summary": "Amid conflict, a girl uses kite festivals to send messages and keep hope alive between divided families."
+    },
+    {
+        "id": 52,
+        "name": "Velvet Circuit",
+        "director": "Noor Al-Hassan",
+        "genre": [
+            "Sci-Fi",
+            "Mystery"
+        ],
+        "year": 2021,
+        "rating": "PG-13",
+        "review_stars": 4.2,
+        "short_plot_summary": "When neural implants start dreaming, an engineer must trace the dream-code to its creator."
+    },
+    {
+        "id": 53,
+        "name": "The Great Mango Heist",
+        "director": "Siddharth Kulkarni",
+        "genre": [
+            "Bollywood",
+            "Comedy",
+            "Crime"
+        ],
+        "year": 2010,
+        "rating": "U",
+        "review_stars": 3.4,
+        "short_plot_summary": "A small-town gang plots to steal a legendary mango shipment to save their orphanage's funding."
+    },
+    {
+        "id": 54,
+        "name": "Lanterns of Lhasa",
+        "director": "Tenzin Dorjee",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ],
+        "year": 2019,
+        "rating": "PG-13",
+        "review_stars": 4.3,
+        "short_plot_summary": "A pilgrim and a photographer traverse high plateaus to restore a stolen sacred lamp."
+    },
+    {
+        "id": 55,
+        "name": "Midwest Midnight",
+        "director": "Caroline Brooks",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "year": 2012,
+        "rating": "R",
+        "review_stars": 3.6,
+        "short_plot_summary": "A gas-station attendant in a snowbound town encounters an entity that feeds on regret."
+    },
+    {
+        "id": 56,
+        "name": "Sitar & Steel",
+        "director": "Rahul Sen",
+        "genre": [
+            "Bollywood",
+            "Music",
+            "Drama"
+        ],
+        "year": 2018,
+        "rating": "UA",
+        "review_stars": 4.0,
+        "short_plot_summary": "A classical sitarist and a rock guitarist collaborate on an album that bridges generational divides."
+    },
+    {
+        "id": 57,
+        "name": "Cloudsmith",
+        "director": "Ivy Park",
+        "genre": [
+            "Fantasy",
+            "Animation"
+        ],
+        "year": 2024,
+        "rating": "U",
+        "review_stars": 4.8,
+        "short_plot_summary": "Sky-farmers shape clouds into music; a young smith discovers a note that can heal storms."
+    },
+    {
+        "id": 58,
+        "name": "The Locksmith's Daughter",
+        "director": "Hassan Mahmood",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "year": 2017,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A locksmith's daughter uses her skills to help neighbors and stumbles into a burglary ring's secrets."
+    },
+    {
+        "id": 59,
+        "name": "Orbit & Oboe",
+        "director": "Marta Soler",
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "year": 2015,
+        "rating": "PG",
+        "review_stars": 4.1,
+        "short_plot_summary": "An astronaut on leave reconnects with a childhood friend and forms an unlikely chamber group."
+    },
+    {
+        "id": 60,
+        "name": "Neela's Train",
+        "director": "Neelam Kapoor",
+        "genre": [
+            "Bollywood",
+            "Drama"
+        ],
+        "year": 2008,
+        "rating": "U",
+        "review_stars": 4.0,
+        "short_plot_summary": "A widowed tea-seller risks everything to board a train and find her estranged son in the city."
+    },
+    {
+        "id": 61,
+        "name": "Frostline",
+        "director": "Julian Hayes",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "year": 2023,
+        "rating": "R",
+        "review_stars": 3.7,
+        "short_plot_summary": "An arctic research team races to stop a pathogen thawed from ancient ice before it spreads."
+    },
+    {
+        "id": 62,
+        "name": "The Glass Sparrow",
+        "director": "Ritu Menon",
+        "genre": [
+            "Bollywood",
+            "Mystery",
+            "Drama"
+        ],
+        "year": 2011,
+        "rating": "UA",
+        "review_stars": 3.8,
+        "short_plot_summary": "A glassblower uncovers clues in fragile sculptures that lead to a missing painter's trail."
+    },
+    {
+        "id": 63,
+        "name": "Midnight Wadi",
+        "director": "Omar Farouk",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "year": 2014,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A young lawyer in a desert city defends a community accused of a crime they did not commit."
+    },
+    {
+        "id": 64,
+        "name": "Paper Lantern Soldiers",
+        "director": "Asha Nadar",
+        "genre": [
+            "Bollywood",
+            "Historical",
+            "War"
+        ],
+        "year": 2006,
+        "rating": "UA",
+        "review_stars": 4.2,
+        "short_plot_summary": "During a resistance movement, ordinary villagers become unlikely heroes guided by symbolic lanterns."
+    },
+    {
+        "id": 65,
+        "name": "Tiny Atlas",
+        "director": "Mikko Leinonen",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "year": 2020,
+        "rating": "U",
+        "review_stars": 4.6,
+        "short_plot_summary": "Miniature explorers map backyard continents and rescue a lost insect kingdom from a flood."
+    },
+    {
+        "id": 66,
+        "name": "Echo Harbor",
+        "director": "Liam O'Connor",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": 2018,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A lighthouse keeper and a marine biologist rebuild trust while uncovering a harbor's buried artifacts."
+    },
+    {
+        "id": 67,
+        "name": "Rubicon Blues",
+        "director": "Anika Bose",
+        "genre": [
+            "Bollywood",
+            "Crime",
+            "Drama"
+        ],
+        "year": 2019,
+        "rating": "R",
+        "review_stars": 3.7,
+        "short_plot_summary": "A jazz singer becomes entangled with a city's underworld while chasing a second chance in music."
+    },
+    {
+        "id": 68,
+        "name": "Stellar Stitch",
+        "director": "Oliver Grant",
+        "genre": [
+            "Animation",
+            "Sci-Fi",
+            "Family"
+        ],
+        "year": 2021,
+        "rating": "U",
+        "review_stars": 4.5,
+        "short_plot_summary": "A seamstress robot sews constellations back into a damaged sky to reunite scattered stardust."
+    },
+    {
+        "id": 69,
+        "name": "Concrete Petals",
+        "director": "Isabel Duarte",
+        "genre": [
+            "Drama",
+            "Indie"
+        ],
+        "year": 2012,
+        "rating": "PG-13",
+        "review_stars": 3.6,
+        "short_plot_summary": "A community garden blossoms in the middle of a housing project, changing neighbors' lives."
+    },
+    {
+        "id": 70,
+        "name": "Dabba Diaries",
+        "director": "Sujata Ramesh",
+        "genre": [
+            "Bollywood",
+            "Comedy",
+            "Slice of Life"
+        ],
+        "year": 2014,
+        "rating": "U",
+        "review_stars": 3.8,
+        "short_plot_summary": "A lunchbox deliveryman's daily routes connect him with stories that teach him his own worth."
+    },
+    {
+        "id": 71,
+        "name": "Iron & Ink",
+        "director": "Caleb Turner",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "year": 2016,
+        "rating": "PG-13",
+        "review_stars": 4.0,
+        "short_plot_summary": "A metalworker discovers that forged swords carry memories and must return them to their rightful owners."
+    },
+    {
+        "id": 72,
+        "name": "Cinema Under the Banyan",
+        "director": "Rakesh Iqbal",
+        "genre": [
+            "Bollywood",
+            "Drama"
+        ],
+        "year": 2007,
+        "rating": "U",
+        "review_stars": 4.1,
+        "short_plot_summary": "A traveling cinema screens films to villages while its projectionist struggles to keep tradition alive."
+    },
+    {
+        "id": 73,
+        "name": "Hyperlane Hitchhike",
+        "director": "Nadia Petrova",
+        "genre": [
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "year": 2019,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A mismatched duo hitch rides between hyperlanes and stumble into cosmic bureaucracy and laughter."
+    },
+    {
+        "id": 74,
+        "name": "Mango Tango",
+        "director": "Priyanka Sen",
+        "genre": [
+            "Bollywood",
+            "Romantic Comedy"
+        ],
+        "year": 2016,
+        "rating": "UA",
+        "review_stars": 3.5,
+        "short_plot_summary": "Two rival fruit vendors fall for each other amid a chaotic summer festival."
+    },
+    {
+        "id": 75,
+        "name": "Glasswing",
+        "director": "Rafael Mendes",
+        "genre": [
+            "Animation",
+            "Fantasy"
+        ],
+        "year": 2012,
+        "rating": "U",
+        "review_stars": 4.4,
+        "short_plot_summary": "A beetle with glass-like wings embarks on a journey to restore color to a graying forest."
+    },
+    {
+        "id": 76,
+        "name": "The Quiet Major",
+        "director": "Evan Marsh",
+        "genre": [
+            "Historical",
+            "Drama"
+        ],
+        "year": 2005,
+        "rating": "PG-13",
+        "review_stars": 4.0,
+        "short_plot_summary": "A low-ranking officer's small act of compassion alters the course of a wartime village's survival."
+    },
+    {
+        "id": 77,
+        "name": "Bolero Bazaar",
+        "director": "Rina Kapoor",
+        "genre": [
+            "Bollywood",
+            "Musical",
+            "Drama"
+        ],
+        "year": 2023,
+        "rating": "UA",
+        "review_stars": 4.2,
+        "short_plot_summary": "A street musician's composition travels across stalls and becomes an anthem of resilience."
+    },
+    {
+        "id": 78,
+        "name": "Sundown Cartridge",
+        "director": "Victor Lam",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "year": 2017,
+        "rating": "R",
+        "review_stars": 3.6,
+        "short_plot_summary": "A courier with a dangerous package must outwit mercenaries across desert highways."
+    },
+    {
+        "id": 79,
+        "name": "Saffron & Salt",
+        "director": "Mahira Ali",
+        "genre": [
+            "Bollywood",
+            "Romance",
+            "Drama"
+        ],
+        "year": 2020,
+        "rating": "UA",
+        "review_stars": 4.0,
+        "short_plot_summary": "A recipe book helps two estranged families rekindle traditions and mend long-standing rifts."
+    },
+    {
+        "id": 80,
+        "name": "Voyage of the Paper Boat",
+        "director": "Hector Alvarez",
+        "genre": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "year": 2011,
+        "rating": "U",
+        "review_stars": 4.3,
+        "short_plot_summary": "Children send paper boats down a river which carry their wishes and lead to unexpected adventures."
+    },
+    {
+        "id": 81,
+        "name": "Hollow Crown",
+        "director": "Beatrice Lang",
+        "genre": [
+            "Drama",
+            "Political"
+        ],
+        "year": 2014,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "An idealistic advisor navigates palace intrigues while trying to reform a failing institution."
+    },
+    {
+        "id": 82,
+        "name": "Bollywood Beats",
+        "director": "Aravind Pillai",
+        "genre": [
+            "Bollywood",
+            "Documentary",
+            "Music"
+        ],
+        "year": 2018,
+        "rating": "U",
+        "review_stars": 4.1,
+        "short_plot_summary": "An exploration of India’s regional music scenes and the artists keeping tradition alive."
+    },
+    {
+        "id": 83,
+        "name": "Sundial Run",
+        "director": "Marta Kuznetsov",
+        "genre": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "year": 2022,
+        "rating": "PG-13",
+        "review_stars": 3.8,
+        "short_plot_summary": "Thieves race against an eclipse to steal a device that can freeze time in small zones."
+    },
+    {
+        "id": 84,
+        "name": "Curry & Cadence",
+        "director": "Neela Patankar",
+        "genre": [
+            "Bollywood",
+            "Comedy",
+            "Romance"
+        ],
+        "year": 2011,
+        "rating": "U",
+        "review_stars": 3.7,
+        "short_plot_summary": "A classical dancer and a pop composer find harmony while preparing a cross-genre show."
+    },
+    {
+        "id": 85,
+        "name": "Mariner's Map",
+        "director": "Oren Feld",
+        "genre": [
+            "Adventure",
+            "Mystery"
+        ],
+        "year": 2003,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "An old nautical chart and a missing captain lead a young cartographer to an untouched island."
+    },
+    {
+        "id": 86,
+        "name": "Tiny Thunder",
+        "director": "Laila Hassan",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "year": 2015,
+        "rating": "U",
+        "review_stars": 4.2,
+        "short_plot_summary": "A storm sprite teams up with a shy cloud to bring summer rain to a drought-stricken valley."
+    },
+    {
+        "id": 87,
+        "name": "The Last Matchbox",
+        "director": "Rohit Deshmukh",
+        "genre": [
+            "Bollywood",
+            "Drama",
+            "Social"
+        ],
+        "year": 2002,
+        "rating": "U",
+        "review_stars": 4.0,
+        "short_plot_summary": "An impoverished match-seller's small acts of kindness ripple through a bustling city street."
+    },
+    {
+        "id": 88,
+        "name": "Crystal Harbor",
+        "director": "Giselle Moreau",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "year": 2010,
+        "rating": "PG-13",
+        "review_stars": 3.8,
+        "short_plot_summary": "Two estranged lovers reunite in a seaside town to confront compromises made long ago."
+    },
+    {
+        "id": 89,
+        "name": "Bolt & Blossom",
+        "director": "Kenji Nakamura",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "year": 2024,
+        "rating": "U",
+        "review_stars": 4.7,
+        "short_plot_summary": "A lost robot and a gardening girl repair a broken greenhouse and learn about growth and friendship."
+    },
+    {
+        "id": 90,
+        "name": "The Copper Pilgrim",
+        "director": "Yusuf Rahman",
+        "genre": [
+            "Drama",
+            "Historical"
+        ],
+        "year": 1999,
+        "rating": "PG-13",
+        "review_stars": 3.9,
+        "short_plot_summary": "A traveling tinsmith becomes an unlikely chronicler of a village’s transformation across decades."
+    },
+    {
+        "id": 91,
+        "name": "Neela Nazar",
+        "director": "Sonal Ahuja",
+        "genre": [
+            "Bollywood",
+            "Mystery",
+            "Thriller"
+        ],
+        "year": 2021,
+        "rating": "UA",
+        "review_stars": 4.1,
+        "short_plot_summary": "A photojournalist's snapshots reveal a recurring face tied to a string of unsolved thefts."
+    },
+    {
+        "id": 92,
+        "name": "Circuit Garden",
+        "director": "Hugo Silva",
+        "genre": [
+            "Sci-Fi",
+            "Family"
+        ],
+        "year": 2018,
+        "rating": "U",
+        "review_stars": 4.0,
+        "short_plot_summary": "Children plant a robotic garden that grows playful machines which teach them engineering and empathy."
+    },
+    {
+        "id": 93,
+        "name": "The Lantern Thief",
+        "director": "Mirai Takahashi",
+        "genre": [
+            "Animation",
+            "Mystery"
+        ],
+        "year": 2013,
+        "rating": "U",
+        "review_stars": 4.2,
+        "short_plot_summary": "A tiny thief steals glowing lanterns that carry memories, and a brave girl returns them to their owners."
+    },
+    {
+        "id": 94,
+        "name": "Cobra & Coconut",
+        "director": "Rakesh Sharma",
+        "genre": [
+            "Bollywood",
+            "Action",
+            "Comedy"
+        ],
+        "year": 2017,
+        "rating": "UA",
+        "review_stars": 3.6,
+        "short_plot_summary": "An ex-stuntman and a coconut vendor team up to expose a fake miracle cult in Goa."
+    },
+    {
+        "id": 95,
+        "name": "Paper Comet",
+        "director": "Arielle Fournier",
+        "genre": [
+            "Animation",
+            "Sci-Fi",
+            "Drama"
+        ],
+        "year": 2020,
+        "rating": "U",
+        "review_stars": 4.5,
+        "short_plot_summary": "A paper comet travels through a child's drawings bringing their small wishes to life."
+    },
+    {
+        "id": 96,
+        "name": "Riverside Radio",
+        "director": "Dilip Nambiar",
+        "genre": [
+            "Bollywood",
+            "Drama",
+            "Musical"
+        ],
+        "year": 2004,
+        "rating": "U",
+        "review_stars": 3.9,
+        "short_plot_summary": "A decrepit radio station revives with grassroots voices and becomes a town's heartbeat."
+    },
+    {
+        "id": 97,
+        "name": "The Iron Swimmer",
+        "director": "Kai Müller",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "year": 2016,
+        "rating": "PG-13",
+        "review_stars": 3.7,
+        "short_plot_summary": "A salvage diver races underwater currents to recover a prototype engine before privateers do."
+    },
+    {
+        "id": 98,
+        "name": "Sundial Sisters",
+        "director": "Zeenat Ali",
+        "genre": [
+            "Bollywood",
+            "Drama",
+            "Family"
+        ],
+        "year": 2012,
+        "rating": "U",
+        "review_stars": 4.1,
+        "short_plot_summary": "Three sisters restore their ancestral home and uncover stories that bind them stronger than grief."
+    },
+    {
+        "id": 99,
+        "name": "Aurora Kite",
+        "director": "Marek Novak",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "year": 2025,
+        "rating": "U",
+        "review_stars": 4.8,
+        "short_plot_summary": "A child builds a kite that flies into the aurora and returns with pieces of the night sky to heal a sleeping town."
+    }
+]

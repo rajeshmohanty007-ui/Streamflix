@@ -1,0 +1,87 @@
+.movieCard {
+    width: 90%;
+    aspect-ratio: 2/3;
+    border: 1px solid #2a2a2a;
+    box-shadow: 5px 5px 10px rgba(48, 48, 48, 0.623);
+    border-radius: 20px;
+    background-color: #1a1a1a;
+    padding: 10px;
+    cursor: pointer;
+    animation: slideUp 1s ease;
+}
+
+.thumbnail {
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-color: rgb(1, 64, 75);
+    border-radius: 20px;
+}
+
+.movieDetails {
+    padding: 10px 0 0 0;
+}
+
+@media screen and (max-width: 800px) {
+    .movieName {
+        font-size: 0.8rem;
+    }
+}
+.VSmovieCard{
+    width: 90%;
+    height: clamp(200px,20vh,300px);
+    background-color: #2a2a2a;
+    border: 2px solid #2a2a2a;
+    box-shadow: 5px 5px 10px rgba(83, 83, 83, 0.737);
+    border-radius: 30px;
+    justify-content: flex-start;
+    padding: 15px;
+    gap: 15px;
+    cursor: pointer;
+}
+.VSthumbnail{
+    height: 100%;
+    aspect-ratio: 1;
+    background-color: rgb(61, 85, 135);
+    border-radius: 30px;
+    
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.h2{
+    color: #f19514;
+}
+.genre{
+    border-radius: 10px;
+    border: 1px solid #656565;
+    color: #b673a7;
+    display: inline;
+    padding: 4px;
+    margin-right: 5px;
+}
+
+@media screen and (max-width: 800px) {
+    .VSmovieCard{
+        border-radius: 10px;
+        font-size: 0.7rem;
+    }
+    .h2{
+        font-size: 1rem;
+    }
+    .VSthumbnail{
+        border-radius: 7px;
+    }
+}
