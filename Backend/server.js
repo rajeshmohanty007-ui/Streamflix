@@ -27,9 +27,10 @@ async function loadData() {
         year: m.year
     }));
 }
+const PORT = process.env.PORT || 3000;
 async function startServer() {
     await loadData();   
-    app.listen(3000, () => console.log("Server started on port 3000"));
+    app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
 }
 
 startServer();
