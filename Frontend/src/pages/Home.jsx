@@ -61,7 +61,7 @@ const Home = () => {
     : [];
 
   useEffect(() => {
-    fetch("http://localhost:3000/movies")
+    fetch("https://streamflix-5ih9.onrender.com/movies")
       .then((res) => res.json())
       .then((json) => setData(json));
   });

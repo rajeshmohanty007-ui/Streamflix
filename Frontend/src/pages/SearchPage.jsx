@@ -38,7 +38,7 @@ const SearchPage = () => {
     navigate(`/search?q=${name}`);
   }
   async function findMovie(name) {
-    const res = await fetch("http://localhost:3000/movies");
+    const res = await fetch("https://streamflix-5ih9.onrender.com/movies");
     const movieList = await res.json();
 
     const result = movieList.filter(

@@ -21,7 +21,7 @@ const VibeSearchPage = () => {
   async function firstFilter(input) {
     setLoading(true);
     setOutput("");
-    const res = await fetch("http://localhost:3000/aiFirstResponse", {
+    const res = await fetch("https://streamflix-5ih9.onrender.com/aiFirstResponse", {
       method: "post",
       headers: {
         "Content-Type": "application/json",

@@ -38,7 +38,7 @@ const MovieDetails = () => {
   const [movie, setMovie] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:3000/movies/${id}`)
+    fetch(`https://streamflix-5ih9.onrender.com/movies/${id}`)
       .then((res) => res.json())
       .then((json) => setMovie(json));
   }, [id]);
