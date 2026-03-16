@@ -29,7 +29,7 @@ const VScard = ({ props, index }) => {
             <StarIcon key={index} sx={{ color: "#edda0a", fontSize: star }} />
           ))}
         </div>
-        <div>
+        <div className="flex genre-div">
           {Array.isArray(props.genre) &&
             props.genre.map((genre,index) => <div className="genre" key={index}>{genre}</div>)}
           {!Array.isArray(props.genre) && (

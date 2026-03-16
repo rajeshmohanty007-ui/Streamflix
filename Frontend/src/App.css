@@ -282,7 +282,7 @@ main {
     height: clamp(calc(94vh - 100px), 89vh, calc(94vh - 30px));
   }
   .movieGrid {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 2fr));
+    grid-template-columns: repeat(auto-fill, minmax(150px, 2fr));
   }
   #navbar {
     height: 94vh;

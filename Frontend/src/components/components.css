@@ -72,6 +72,11 @@
     padding: 4px;
     margin-right: 5px;
 }
+.genre-div{
+    flex-wrap: wrap;
+    height: fit-content;
+    justify-content: flex-start;
+}
 
 @media screen and (max-width: 800px) {
     .VSmovieCard{
@@ -83,5 +88,12 @@
     }
     .VSthumbnail{
         border-radius: 7px;
+        height: 100%;
+        aspect-ratio: 2/3;
+    }
+    .details{
+        overflow-y: scroll;
+        height: 100%;
+        scrollbar-width: none;
     }
 }
